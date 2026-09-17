@@ -23,6 +23,7 @@ Aspiring Cybersecurity Enthusiast, Web Development  passionate about building se
 ### 💻 Programming
 - Python
 - Java
+- JavaScript(Basics)
 
 ## 🌐 Full Stack Development
 - React.js
@@ -36,7 +37,7 @@ Aspiring Cybersecurity Enthusiast, Web Development  passionate about building se
 - MongoDB
 - SQL
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps(Learning)
 - AWS
 - Jenkins
 - Git
