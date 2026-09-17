@@ -1,6 +1,6 @@
-# Hi 👋, I'm Hemendra Venkata Lalith
+# Hi 👋, I'm  Charugundla.Hemendra Venkata Lalith 
 
-### Full Stack Developer | Cybersecurity Enthusiast | B.Tech Cybersecurity Student
+### B.Tech Cybersecurity Student | Full Stack Developer | Cybersecurity Enthusiast 
 
 Aspiring Cybersecurity Enthusiast, Web Development  passionate about building secure, scalable, and practical web applications. Experienced in React.js, Node.js, Express.js, MongoDB, REST APIs, and JWT authentication.
 
