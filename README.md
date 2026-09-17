@@ -57,16 +57,19 @@ Aspiring Cybersecurity Enthusiast, Web Development  passionate about building se
 
 ## 🚀 Projects
 
-### 🛡️ PhishGuard — Phishing Email Detection Tool
+### 🛡️ PhishGuard – Intelligent Phishing URL Detection & Risk Assessment System
 
 A phishing email detection application that analyzes email content and
 classifies messages as phishing or legitimate.
 
-- Built a web application for real-time phishing email analysis
-- Implemented phishing detection using NLP and BERT-based classification
-- Developed backend APIs for email analysis and result processing
-- Stored analysis results using MongoDB
-- Used Docker and Jenkins for application deployment and CI/CD
+- Analyzes URLs to identify potentially suspicious or phishing characteristics.
+- Generates a risk score and risk level based on security checks.
+- Displays threat indicators, security checks, and recommendations to the user.
+-React.js frontend provides an interactive interface for URL analysis and scan history.
+-FastAPI backend handles URL analysis, risk scoring, and REST APIs.
+-MongoDB stores scan results and maintains scan history.
+-Docker is used to containerize the application components.
+ -Kubernetes is used to deploy and manage the frontend, backend, and MongoDB services.
 
 ### 🌱 Solar Scarecrow & Weather Station
 
